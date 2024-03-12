@@ -1,0 +1,3 @@
+[submodule "tsu/video_features"]
+	path = tsu/video_features
+	url = https://github.com/v-iashin/video_features

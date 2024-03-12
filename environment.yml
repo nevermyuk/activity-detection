@@ -1,0 +1,13 @@
+name: activity-detection
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pillow
+  - python=3.8
+  - jlab-enhanced-cell-toolbar
+  - pip
+  - ipykernel
+  - nodejs
+  - jupyterlab
+  - ipywidgets
